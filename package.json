@@ -1,0 +1,24 @@
+{
+  "name": "random-txt-msgs",
+  "version": "1.0.0",
+  "description": "You'll see a lot of random text messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmanuelAlv/random-txt-msgs.git"
+  },
+  "keywords": [],
+  "author": "Emanuel Alvarez <alvarezema9@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EmanuelAlv/random-txt-msgs/issues"
+  },
+  "homepage": "https://github.com/EmanuelAlv/random-txt-msgs#readme",
+  "bin": {
+    "random-txt-msgs": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
